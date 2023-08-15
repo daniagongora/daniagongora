@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##My name is Dania I'm a computer science student 😄
+## My name is Dania I'm a computer science student 😄
 <!--
 **daniagongora/daniagongora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
